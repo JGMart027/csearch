@@ -2,6 +2,7 @@
 Dependencies:   requests, bs4, sys; from termcolor import colored
 
 usage:    python csearch.py "item"
+
 i.e.      python csearch.py "iphone"
 
 Search craigslist listings from the terminal. 
